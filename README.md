@@ -4,6 +4,9 @@
 
 [a relative link](secondfile)
 
+[syllabi](first_figure39.html)
+
+
 
 ![useful image](image.png)
 
