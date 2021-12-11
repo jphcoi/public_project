@@ -7,6 +7,7 @@
 [syllabi](first_figure39.html)
 
 
+[sotu](sotu.csv.gz)
 
 ![useful image](image.png)
 
